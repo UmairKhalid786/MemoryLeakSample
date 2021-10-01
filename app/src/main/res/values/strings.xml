@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Memory Leaks Sample</string>
+    <string name="finish_me_and_see_profiler">Finish me and See Profiler</string>
+    <string name="start_memory_manager">Start memory manager!</string>
+</resources>
